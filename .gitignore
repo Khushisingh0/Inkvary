@@ -1,0 +1,15 @@
+node_modules
+.next
+out
+.DS_Store
+*.log
+_ornate-css
+_extract.js
+_css.js
+_links.js
+_html.js
+_extract.txt
+_hero.html
+_about.html
+_chunks.txt
+_styles.css
